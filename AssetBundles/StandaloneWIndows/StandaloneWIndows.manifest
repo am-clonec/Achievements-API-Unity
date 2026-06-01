@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3525201994
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: rfsbundle
+      Dependencies: {}
+    Info_1:
+      Name: achievements
+      Dependencies:
+        Dependency_0: rfsbundle
