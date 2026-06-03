@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 415309a2eac304a4fb8b7ab2528365eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AchievementsMenuItem: {fileID: 3282388241138781341, guid: b24fe22ea668dd29292c0c0ec06674fc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1494820085
+CRC: 3159722712
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 8798c21f82428553b259fc9fa8acc64e
+    Hash: 1c4088e6a7a4514b731d67eb9f4e47a7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 7337b52019e7a5d556295e15634d558c
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8798c21f82428553b259fc9fa8acc64e
+    Hash: 1c4088e6a7a4514b731d67eb9f4e47a7
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -38,12 +38,10 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/Shaders/DesaturationShader.shader
 - Assets/TextSprites/RoleIcons.png
-- Assets/Shaders/Custom_SlidingSprite.mat
 - Assets/Shaders/Custom_WaveDistortion.mat
 - Assets/TextSprites/Emojis.asset
 - Assets/Shaders/WaveShader.shader
 - Assets/Shaders/Custom_PlayerWaveDistortion.mat
-- Assets/Shaders/SlidingSprite.shader
 - Assets/Shaders/WaveShaderPlayerMat.shader
 - Assets/TextSprites/RoleIcons.asset
 - Assets/TextSprites/Emojis.png
