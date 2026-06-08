@@ -14,6 +14,8 @@ namespace AchievementsAPI
         public Transform tabsParent;
         public GameObject tabPrefab;
         public TextMeshProUGUI titleText;
+        public TextMeshProUGUI percentageText;
+        public Image progressBar;
         public void Close()
         {
         }

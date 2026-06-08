@@ -11,5 +11,6 @@ namespace AchievementsAPI
         public TextMeshProUGUI nameText;
         public TextMeshProUGUI descriptionText;
         public Image iconImage;
+        public Image grayscaleImage;
     }
 }
