@@ -1,10 +1,7 @@
 ManifestFileVersion: 0
-CRC: 1766913226
+CRC: 1989352381
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: rfsbundle
-      Dependencies: {}
-    Info_1:
       Name: achievements
       Dependencies: {}
